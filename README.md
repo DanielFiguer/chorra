@@ -13,14 +13,14 @@
 ```html
 <html>
 <body>
-  Probando probando
+  Probado probado
 </body>
 </html>
 ```
 
 - [x] Misión cumplida
 
-> Grazas por visitarme
+> Denada
 
 > Visita tamén [i-rochiño](https://irocho.wordpress.com)
 
